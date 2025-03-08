@@ -1,0 +1,12 @@
+C:\Users\igonz\Documents\CS-git\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.csproj.AssemblyReference.cache
+C:\Users\igonz\Documents\CS-git\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\FizzBuzz\FizzBuzzParser\bin\Debug\FizzBuzzParser.exe
+C:\Users\igonz\Documents\CS-git\FizzBuzz\FizzBuzzParser\bin\Debug\FizzBuzzParser.pdb
+C:\Users\igonz\Documents\CS-git\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.exe
+C:\Users\igonz\Documents\CS-git\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\FizzBuzz\FizzBuzzParser\bin\Debug\FizzBuzzParser.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\FizzBuzz\FizzBuzzParser\bin\Debug\FizzBuzzParser.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.csproj.AssemblyReference.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\FizzBuzz\FizzBuzzParser\obj\Debug\FizzBuzzParser.pdb
