@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\bin\Debug\net8.0\StringManipulation1.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\bin\Debug\net8.0\StringManipulation1.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\bin\Debug\net8.0\StringManipulation1.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\bin\Debug\net8.0\StringManipulation1.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\bin\Debug\net8.0\StringManipulation1.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\refint\StringManipulation1.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\StringManipulation1.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\StringManipulation1\StringManipulation1\obj\Debug\net8.0\ref\StringManipulation1.dll
