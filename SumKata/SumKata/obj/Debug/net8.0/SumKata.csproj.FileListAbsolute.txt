@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\bin\Debug\net8.0\SumKata.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\bin\Debug\net8.0\SumKata.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\bin\Debug\net8.0\SumKata.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\bin\Debug\net8.0\SumKata.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\bin\Debug\net8.0\SumKata.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\refint\SumKata.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\SumKata.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\SumKata\SumKata\obj\Debug\net8.0\ref\SumKata.dll
