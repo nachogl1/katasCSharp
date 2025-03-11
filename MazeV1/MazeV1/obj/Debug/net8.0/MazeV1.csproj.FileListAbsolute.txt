@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\bin\Debug\net8.0\MazeV1.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\bin\Debug\net8.0\MazeV1.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\bin\Debug\net8.0\MazeV1.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\bin\Debug\net8.0\MazeV1.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\bin\Debug\net8.0\MazeV1.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\refint\MazeV1.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\MazeV1.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeV1\MazeV1\obj\Debug\net8.0\ref\MazeV1.dll

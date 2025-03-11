@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeV1", "MazeV1\MazeV1.csproj", "{6AE77F9B-1965-401F-B8ED-C3996DD6DE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeV1.UnitTests", "MazeV1.UnitTests\MazeV1.UnitTests.csproj", "{BFE180BB-99AD-41AE-8A5A-8AB34FBA8B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE77F9B-1965-401F-B8ED-C3996DD6DE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE77F9B-1965-401F-B8ED-C3996DD6DE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE77F9B-1965-401F-B8ED-C3996DD6DE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE77F9B-1965-401F-B8ED-C3996DD6DE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE180BB-99AD-41AE-8A5A-8AB34FBA8B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE180BB-99AD-41AE-8A5A-8AB34FBA8B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE180BB-99AD-41AE-8A5A-8AB34FBA8B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE180BB-99AD-41AE-8A5A-8AB34FBA8B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
