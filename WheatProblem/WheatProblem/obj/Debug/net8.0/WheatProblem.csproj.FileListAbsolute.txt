@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\bin\Debug\net8.0\WheatProblem.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\bin\Debug\net8.0\WheatProblem.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\bin\Debug\net8.0\WheatProblem.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\bin\Debug\net8.0\WheatProblem.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\bin\Debug\net8.0\WheatProblem.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\refint\WheatProblem.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\WheatProblem.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\WheatProblem\WheatProblem\obj\Debug\net8.0\ref\WheatProblem.dll
