@@ -22,6 +22,17 @@ public class SolutionTests
     [TestCase("x", true)]
     [TestCase("xo oxox", true)]
     [TestCase("xo  oxox", false)]
+    [TestCase("xo oxox", true)]
+    [TestCase("xo  oxox", false)]
+    [TestCase("xo ox xo", true)]
+    [TestCase("xooxxo", false)]
+    [TestCase("xxxxxx", false)]
+    [TestCase("oooooo", false)]
+    [TestCase("      ", true)]
+    [TestCase(" ox", true)]
+    [TestCase("xo", true)]
+    [TestCase("x", true)]
+    [TestCase("o", false)]
     public void ReturnIfWalkable(string input, bool expected)
     {
         bool result = Solution.IsWalkable(input);
