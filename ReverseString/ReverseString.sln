@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{4D9A4522-A7F5-419C-9DA4-8690344FF7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString.UnitTests", "ReverseString.UnitTests\ReverseString.UnitTests.csproj", "{E0B69C2A-C2FD-4BBA-8BED-5AB20CF2517D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9A4522-A7F5-419C-9DA4-8690344FF7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9A4522-A7F5-419C-9DA4-8690344FF7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9A4522-A7F5-419C-9DA4-8690344FF7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9A4522-A7F5-419C-9DA4-8690344FF7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B69C2A-C2FD-4BBA-8BED-5AB20CF2517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B69C2A-C2FD-4BBA-8BED-5AB20CF2517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B69C2A-C2FD-4BBA-8BED-5AB20CF2517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B69C2A-C2FD-4BBA-8BED-5AB20CF2517D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
