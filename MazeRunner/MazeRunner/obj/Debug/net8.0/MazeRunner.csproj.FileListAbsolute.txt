@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\bin\Debug\net8.0\MazeRunner.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\bin\Debug\net8.0\MazeRunner.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\bin\Debug\net8.0\MazeRunner.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\bin\Debug\net8.0\MazeRunner.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\bin\Debug\net8.0\MazeRunner.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\refint\MazeRunner.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\MazeRunner.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner\MazeRunner\obj\Debug\net8.0\ref\MazeRunner.dll
