@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeRunner2", "MazeRunner2\MazeRunner2.csproj", "{16A56E83-3988-4896-8871-29A0BDC7C2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeRunner2.UnitTests", "MazeRunner2.UnitTests\MazeRunner2.UnitTests.csproj", "{75CD2DDF-E540-46CE-BCE8-24A23A6BEA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A56E83-3988-4896-8871-29A0BDC7C2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A56E83-3988-4896-8871-29A0BDC7C2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A56E83-3988-4896-8871-29A0BDC7C2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A56E83-3988-4896-8871-29A0BDC7C2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CD2DDF-E540-46CE-BCE8-24A23A6BEA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD2DDF-E540-46CE-BCE8-24A23A6BEA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD2DDF-E540-46CE-BCE8-24A23A6BEA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD2DDF-E540-46CE-BCE8-24A23A6BEA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

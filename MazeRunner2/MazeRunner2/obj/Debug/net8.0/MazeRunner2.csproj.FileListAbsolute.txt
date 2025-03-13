@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\bin\Debug\net8.0\MazeRunner2.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\bin\Debug\net8.0\MazeRunner2.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\bin\Debug\net8.0\MazeRunner2.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\bin\Debug\net8.0\MazeRunner2.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\bin\Debug\net8.0\MazeRunner2.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\refint\MazeRunner2.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\MazeRunner2.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\MazeRunner2\MazeRunner2\obj\Debug\net8.0\ref\MazeRunner2.dll
