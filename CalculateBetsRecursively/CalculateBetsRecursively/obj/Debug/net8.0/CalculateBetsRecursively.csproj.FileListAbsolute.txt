@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\bin\Debug\net8.0\CalculateBetsRecursively.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\bin\Debug\net8.0\CalculateBetsRecursively.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\bin\Debug\net8.0\CalculateBetsRecursively.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\bin\Debug\net8.0\CalculateBetsRecursively.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\bin\Debug\net8.0\CalculateBetsRecursively.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\refint\CalculateBetsRecursively.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\CalculateBetsRecursively.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\CalculateBetsRecursively\CalculateBetsRecursively\obj\Debug\net8.0\ref\CalculateBetsRecursively.dll
