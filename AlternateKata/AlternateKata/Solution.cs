@@ -15,7 +15,9 @@ public class Solution
         if (input.Length == index) return true;
 
         if (index % 2 == 0 && isFirstVowel && !_vowels.Contains(input[index])) return false;
+        if (index % 2 == 0 && !isFirstVowel && _vowels.Contains(input[index])) return false;
         if (index % 2 != 0 && isFirstVowel && _vowels.Contains(input[index])) return false;
+        if (index % 2 != 0 && !isFirstVowel && !_vowels.Contains(input[index])) return false;
 
         return Recursive(input, ++index, isFirstVowel);
     }
