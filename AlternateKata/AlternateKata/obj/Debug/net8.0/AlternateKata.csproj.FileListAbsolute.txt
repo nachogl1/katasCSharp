@@ -1,0 +1,15 @@
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.AssemblyInfoInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.AssemblyInfo.cs
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.csproj.CoreCompileInputs.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.sourcelink.json
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\bin\Debug\net8.0\AlternateKata.exe
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\bin\Debug\net8.0\AlternateKata.deps.json
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\bin\Debug\net8.0\AlternateKata.runtimeconfig.json
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\bin\Debug\net8.0\AlternateKata.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\bin\Debug\net8.0\AlternateKata.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\refint\AlternateKata.dll
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.pdb
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\AlternateKata.genruntimeconfig.cache
+C:\Users\igonz\Documents\CS-git\KatasC#\AlternateKata\AlternateKata\obj\Debug\net8.0\ref\AlternateKata.dll
